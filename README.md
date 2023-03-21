@@ -29,11 +29,12 @@ valores en el constructor e implementar sus respectivos métodos getter.
 
 ● Escribir un programa, clase con método main, la cual llamaremos EjemploOrdenes:
 
-        - Crear tres órdenes, con sus respectivos valores, el cliente, agregar los
-        cuatro productos a cada una, cada orden con distintos productos, que no
-        se repitan.
-        - Para cada una imprimir sus valores en consola usando método getter
-        incluyendo los productos, donde con el método getter obtenemos el
-        arreglo de productos y con un foreach recorremos e imprimimos sus
-        atributos fabricante, nombre y precio. Tener en cuenta en la salida el gran
-        total de cada orden, los clientes, todo.
+   - Crear tres órdenes, con sus respectivos valores, el cliente, agregar los
+     cuatro productos a cada una, cada orden con distintos productos, que no
+     se repitan.
+        
+   - Para cada una imprimir sus valores en consola usando método getter
+     incluyendo los productos, donde con el método getter obtenemos el
+     arreglo de productos y con un foreach recorremos e imprimimos sus
+     tributos fabricante, nombre y precio. Tener en cuenta en la salida el gran
+     total de cada orden, los clientes, todo.
