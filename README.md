@@ -6,6 +6,7 @@ La tarea es crear un proyecto nuevo llamado ProyectoOrdenCompra de la siguiente 
 identificador tipo Integer autoincremental, descripcion String, fecha tipo Date,
 cliente del tipo Cliente y finalmente un atributo de tipo arreglo de productos con
 4 elementos: Producto[] productos.
+
 ● En la clase OrdenCompra, crear constructor que inicialice solo la descripción.
 ● En la clase OrdenCompra, crear métodos getter para todos los atributos.
 ● En la clase OrdenCompra implementar sólo métodos set para cliente y fecha.
